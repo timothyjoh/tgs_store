@@ -33,12 +33,14 @@ class OrdersController < Spree::BaseController
   create do
     flash nil 
     wants.html {redirect_to edit_order_url(@order)}
+    wants.js { render :template => "shared/add_to_cart.html.erb", :layout => false }
   end     
   
   # override the default r_c flash behavior
   update.flash nil
   update.response do |wants| 
     wants.html {redirect_to edit_order_url(object)}
+    wants.js { render :template => "shared/add_to_cart.html.erb", :layout => false }
   end  
 
   update.after do 
