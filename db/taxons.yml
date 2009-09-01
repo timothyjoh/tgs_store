@@ -1,0 +1,250 @@
+
+--- 
+taxonomies: 
+  columns: 
+  - id
+  - name
+  - created_at
+  - updated_at
+  records: 
+  - - "1"
+    - Category
+    - 2009-08-30 03:45:33
+    - 2009-08-30 03:45:33
+
+--- 
+taxons: 
+  columns: 
+  - id
+  - taxonomy_id
+  - parent_id
+  - position
+  - name
+  - created_at
+  - updated_at
+  - permalink
+  records: 
+  - - "1"
+    - "1"
+    - 
+    - "0"
+    - Category
+    - 2009-08-30 03:45:33
+    - 2009-08-30 03:45:33
+    - category/
+  - - "2"
+    - "1"
+    - "1"
+    - "0"
+    - Books
+    - 2009-08-30 03:45:49
+    - 2009-08-30 03:45:49
+    - category/books/
+  - - "3"
+    - "1"
+    - "1"
+    - "1"
+    - A Cappella Music
+    - 2009-08-30 03:47:26
+    - 2009-08-30 03:47:26
+    - category/a-cappella-music/
+  - - "4"
+    - "1"
+    - "1"
+    - "2"
+    - Witnessing Helps
+    - 2009-08-30 03:47:34
+    - 2009-08-30 03:47:34
+    - category/witnessing-helps/
+  - - "5"
+    - "1"
+    - "1"
+    - "3"
+    - More Languages
+    - 2009-08-30 03:47:49
+    - 2009-08-30 03:47:49
+    - category/more-languages/
+  - - "6"
+    - "1"
+    - "2"
+    - "0"
+    - CAM-published books
+    - 2009-08-30 03:48:11
+    - 2009-08-30 03:48:11
+    - category/books/cam-published-books/
+  - - "7"
+    - "1"
+    - "2"
+    - "1"
+    - Value Packs
+    - 2009-08-30 03:48:22
+    - 2009-08-30 03:48:22
+    - category/books/value-packs/
+  - - "8"
+    - "1"
+    - "2"
+    - "2"
+    - Children's Books
+    - 2009-08-30 03:48:29
+    - 2009-08-30 03:48:29
+    - category/books/childrens-books/
+  - - "9"
+    - "1"
+    - "2"
+    - "3"
+    - Bibles
+    - 2009-08-30 03:48:39
+    - 2009-08-30 03:48:39
+    - category/books/bibles/
+  - - "10"
+    - "1"
+    - "2"
+    - "4"
+    - Study Helps
+    - 2009-08-30 03:48:44
+    - 2009-08-30 03:48:44
+    - category/books/study-helps/
+  - - "11"
+    - "1"
+    - "2"
+    - "5"
+    - Early Classics
+    - 2009-08-30 03:48:55
+    - 2009-08-30 03:48:55
+    - category/books/early-classics/
+  - - "12"
+    - "1"
+    - "2"
+    - "6"
+    - Inspirational
+    - 2009-08-30 03:49:07
+    - 2009-08-30 03:49:07
+    - category/books/inspirational/
+  - - "13"
+    - "1"
+    - "2"
+    - "7"
+    - Educational
+    - 2009-08-30 03:49:18
+    - 2009-08-30 03:49:18
+    - category/books/educational/
+  - - "14"
+    - "1"
+    - "4"
+    - "0"
+    - Gospel Signs
+    - 2009-08-30 03:49:32
+    - 2009-08-30 03:49:32
+    - category/witnessing-helps/gospel-signs/
+  - - "15"
+    - "1"
+    - "4"
+    - "1"
+    - Witnessing Packs
+    - 2009-08-30 03:49:46
+    - 2009-08-30 03:49:46
+    - category/witnessing-helps/witnessing-packs/
+  - - "16"
+    - "1"
+    - "4"
+    - "2"
+    - Bible Story Books
+    - 2009-08-30 03:50:01
+    - 2009-08-30 03:50:01
+    - category/witnessing-helps/bible-story-books/
+  - - "17"
+    - "1"
+    - "4"
+    - "3"
+    - CD Sets
+    - 2009-08-30 03:50:09
+    - 2009-08-30 03:50:09
+    - category/witnessing-helps/cd-sets/
+  - - "18"
+    - "1"
+    - "4"
+    - "4"
+    - Other Helps
+    - 2009-08-30 03:50:16
+    - 2009-08-30 03:50:16
+    - category/witnessing-helps/other-helps/
+  - - "19"
+    - "1"
+    - "5"
+    - "0"
+    - Haitian (Creole)
+    - 2009-08-30 03:50:41
+    - 2009-08-30 03:50:41
+    - category/more-languages/haitian-creole/
+  - - "20"
+    - "1"
+    - "5"
+    - "1"
+    - Romanian
+    - 2009-08-30 03:50:52
+    - 2009-08-30 03:50:52
+    - category/more-languages/romanian/
+  - - "21"
+    - "1"
+    - "5"
+    - "2"
+    - Russian
+    - 2009-08-30 03:51:01
+    - 2009-08-30 03:51:01
+    - category/more-languages/russian/
+  - - "22"
+    - "1"
+    - "5"
+    - "3"
+    - Spanish
+    - 2009-08-30 03:51:10
+    - 2009-08-30 03:51:10
+    - category/more-languages/spanish/
+  - - "23"
+    - "1"
+    - "5"
+    - "4"
+    - Other
+    - 2009-08-30 03:51:16
+    - 2009-08-30 03:51:16
+    - category/more-languages/other/
+  - - "24"
+    - "1"
+    - "3"
+    - "0"
+    - English
+    - 2009-08-30 03:51:35
+    - 2009-08-30 03:51:35
+    - category/a-cappella-music/english/
+  - - "25"
+    - "1"
+    - "3"
+    - "1"
+    - Spanish
+    - 2009-08-30 03:51:40
+    - 2009-08-30 03:51:40
+    - category/a-cappella-music/spanish/
+  - - "26"
+    - "1"
+    - "25"
+    - "0"
+    - CDs
+    - 2009-08-30 03:51:47
+    - 2009-08-30 03:51:47
+    - category/a-cappella-music/spanish/cds/
+  - - "27"
+    - "1"
+    - "24"
+    - "0"
+    - CDs
+    - 2009-08-30 03:51:51
+    - 2009-08-30 03:51:51
+    - category/a-cappella-music/english/cds/
+  - - "28"
+    - "1"
+    - "24"
+    - "1"
+    - Cassettes
+    - 2009-08-30 03:51:57
+    - 2009-08-30 03:51:57
+    - category/a-cappella-music/english/cassettes/
