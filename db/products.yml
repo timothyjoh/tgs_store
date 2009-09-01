@@ -1,0 +1,138 @@
+
+--- 
+products: 
+  columns: 
+  - id
+  - name
+  - description
+  - created_at
+  - updated_at
+  - permalink
+  - available_on
+  - tax_category_id
+  - shipping_category_id
+  - deleted_at
+  - meta_description
+  - meta_keywords
+  records: 
+  - - "1"
+    - English Bible - Large Font
+    - English Bible with extra large font for easy reading. Cover made of genuine pigskin. Gotta run for break!
+    - 2009-08-17 13:50:29
+    - 2009-08-19 14:28:42
+    - english-bible-large-font
+    - 2009-08-17 13:50:00
+    - "1"
+    - "1"
+    - 2009-08-19 14:28:42
+    - ""
+    - ""
+  - - "2"
+    - Corazones de Piedra (Spanish)
+    - A recording of Spanish songs by the Pablo Yoder family. Great gift for your Spanish neighbors and friends!
+    - 2009-08-19 13:44:15
+    - 2009-08-19 13:44:42
+    - corazones-de-piedra-spanish
+    - 2009-08-19 13:44:00
+    - "1"
+    - "1"
+    - 
+    - ""
+    - ""
+  - - "3"
+    - Footsteps CD
+    - "Many of the songs on this recording were dear to the Pablo Yoder family during their trials and hardships in Nicaragua.* Those invisible footsteps of Jesus went with them all the way!\r\n\
+      * Related in the book Angels in the Night by Pablo Yoder. "
+    - 2009-08-19 13:45:14
+    - 2009-08-19 13:45:40
+    - footsteps-cd
+    - 2009-08-19 13:45:00
+    - 
+    - 
+    - 
+    - ""
+    - ""
+  - - "4"
+    - Come, Let Us Sing CD
+    - The Nathaniel church choir is made up of youth from the Nathaniel Orphanage as well as CAM personnel. We hope these songs will encourage you in your walk with God and cause you to worship Him.
+    - 2009-08-19 13:46:07
+    - 2009-08-19 13:46:22
+    - come-let-us-sing-cd
+    - 2009-08-19 13:46:00
+    - 
+    - 
+    - 
+    - ""
+    - ""
+  - - "5"
+    - Amazing Love CD set
+    - The Altar of Praise Chorale shares the plan of salvation in beautiful, four-part harmony. Readings of foundational scriptures throughout the recording make the Gospel message clear.
+    - 2009-08-19 13:46:47
+    - 2009-08-19 13:47:03
+    - amazing-love-cd-set
+    - 2009-08-19 13:46:00
+    - 
+    - 
+    - 
+    - ""
+    - ""
+  - - "6"
+    - Amazing Grace CD set
+    - "The Antrim Mennonite Choir shares songs of hope and comfort in peaceful, four-part harmony. Old hymns such as <i>Amazing Grace</i>, <i>Just As I Am</i>, and <i>In The Rifted Rock I\xE2\x80\x99m Resting</i> minister to the hurting, lost, and discouraged."
+    - 2009-08-19 13:47:26
+    - 2009-08-19 20:21:27
+    - amazing-grace-cd-set
+    - 2009-08-19 13:47:00
+    - 
+    - 
+    - 
+    - ""
+    - ""
+  - - "7"
+    - Loving Jesus CD
+    - A 2004 recording of the Nathaniel Christian Orphanage children and staff. (Three of the 16 songs are in Romanian.)
+    - 2009-08-19 13:48:08
+    - 2009-08-19 14:32:27
+    - loving-jesus
+    - 2009-08-19 13:48:00
+    - 
+    - 
+    - 
+    - ""
+    - ""
+  - - "8"
+    - Praising Jesus CD
+    - A beautiful recording, produced in 2005, by 15 singers (children, youth, and staff) from the Nathaniel Christian Orphanage in Romania. All English songs.
+    - 2009-08-19 13:48:43
+    - 2009-08-19 14:34:14
+    - praising-jesus
+    - 2009-08-19 13:48:00
+    - 
+    - 
+    - 
+    - ""
+    - ""
+  - - "9"
+    - Loving Jesus Cassette
+    - "A 2004 recording of the Nathaniel Christian Orphanage children and staff. (Three of the 16 songs are in Romanian.) "
+    - 2009-08-19 14:32:54
+    - 2009-08-19 14:33:03
+    - loving-jesus-cassette
+    - 2009-08-19 14:32:00
+    - 
+    - 
+    - 
+    - ""
+    - ""
+  - - "10"
+    - Praising Jesus Cassette
+    - A beautiful recording, produced in 2005, by 15 singers (children, youth, and staff) from the Nathaniel Christian Orphanage in Romania. All English songs.
+    - 2009-08-19 14:33:40
+    - 2009-08-19 14:34:02
+    - praising-jesus-cassette
+    - 2009-08-19 14:33:00
+    - 
+    - 
+    - 
+    - ""
+    - ""
